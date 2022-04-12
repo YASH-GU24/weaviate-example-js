@@ -1,0 +1,2 @@
+# weaviate-example-js
+ 
